@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Implement API PUBLIK</string>
-    <string-array name="movie_titles">
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-    </string-array>
-</resources>
